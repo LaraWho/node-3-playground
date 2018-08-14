@@ -8,7 +8,7 @@
 
 
 
-## What is the 'next' parameter in a middleware function? What makes it useful, say, compared to if you were expect to use a return statement?
+## What is the 'next' parameter in a middleware function? What makes it useful, say, compared to if you were expected to use a return statement?
 
 
 
